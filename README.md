@@ -88,7 +88,6 @@ indicativa
     "linkIMDB": "https://www.imdb.com/title/tt3480822/?ref_=nv_sr_srsg_3",
     "categoria": 1,
     "classificacao": 3
-  
   }
 ```
 

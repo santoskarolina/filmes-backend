@@ -1,11 +1,10 @@
-
-## Aplicacação
+# :pushpin: API de filmes
 
 Api de filmes, cada filme tem uma categoria e uma classificação 
 indicativa
 
 
-## Tecnologias usadas
+#### :small_blue_diamond: Tecnologias usadas
 
  - Java como linguagem de programação,
  - SpringBoot como framework,
@@ -13,7 +12,7 @@ indicativa
  - postgreSql para banco de dados de produção e desenvolvimento,
  - Heroku para deploy da aplicação
   
-## API Reference
+#### :small_blue_diamond: API Reference
 
 #### GET todos os filmes
 
@@ -90,7 +89,8 @@ indicativa
     "classificacao": 3
   }
 ```
-
+#### :small_blue_diamond: Modelo de camadas
+![DOMAIN MODEL](https://github.com/anna104016/html/blob/main/estrutura%20de%20camadas01.png)
  
 
   

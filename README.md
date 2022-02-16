@@ -90,7 +90,7 @@ indicativa
   }
 ```
 #### :small_blue_diamond: Modelo de camadas
-![DOMAIN MODEL](https://github.com/anna104016/html/blob/main/estrutura%20de%20camadas01.png)
+![DOMAIN MODEL](https://github.com/santoskarolina/html/blob/main/uml/estrutura-de-camadas.png)
  
 
   
